@@ -23,7 +23,7 @@ import time
 SEARCH_TERM = '(ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit[Protein Name] OR rbcL[Gene Name]) AND txid33090[Organism:exp]'
 
 # 첫 실행에서는 소량만 수집하여 결과를 확인합니다.
-MAX_RECORDS = 10
+MAX_RECORDS = 100
 
 # NCBI 요청 주소
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
