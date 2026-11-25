@@ -1,0 +1,101 @@
+﻿accession,organism,sequence_length,partial,status
+YHI48827.1,Chlorophytum nepalense,99,True,Excluded: partial
+YHI48826.1,Chlorophytum nepalense,99,True,Excluded: partial
+YHI44192.1,Centella asiatica,484,False,Selected
+YHI44108.1,Centella asiatica,484,False,Selected
+YHI44024.1,Centella asiatica,484,False,Selected
+YHI43940.1,Centella asiatica,484,False,Selected
+YHI43857.1,Haloxylon salicornicum,475,False,Selected
+YHI61692.1,Malus sp.,475,False,Selected
+YCB05326.1,Globba sp.,480,False,Selected
+YCB05239.1,Globba sp.,480,False,Selected
+YCB05152.1,Globba racemosa,480,False,Selected
+DBB45886.1,Androsace erecta,475,False,Selected
+DBB45799.1,Androsace graminifolia,475,False,Selected
+DBB45714.1,Androsace umbellata,475,False,Selected
+DBB45628.1,Pomatosace filicula,475,False,Selected
+YHI61159.1,Populus nigra,475,False,Selected
+YHI61073.1,Populus nigra var. thevestina,475,False,Selected
+YHI60987.1,Populus deltoides,475,False,Selected
+YHI34544.1,Gomphandra mollis,480,False,Selected
+YHI33482.1,Vitis vinifera,475,False,Selected
+YHI33396.1,Vitis vinifera,475,False,Selected
+YHI33310.1,Vitis vinifera,475,False,Selected
+YHI33224.1,Vitis vinifera,475,False,Selected
+YHI33138.1,Vitis vinifera,475,False,Selected
+YHI33052.1,Vitis vinifera,475,False,Selected
+YHI32966.1,Vitis vinifera,475,False,Selected
+YHI32880.1,Vitis vinifera,475,False,Selected
+YHI20884.1,Machaerina rubiginosa,41,True,Excluded: partial
+YHI20883.1,Vallisneria australis,41,True,Excluded: partial
+YHI20882.1,Stuckenia pectinata,41,True,Excluded: partial
+YHI20881.1,Ranunculus amphitrichus,41,True,Excluded: partial
+YHI20880.1,Persicaria subsessilis,41,True,Excluded: partial
+YHI20879.1,Persicaria praetermissa,41,True,Excluded: partial
+YHI20878.1,Persicaria decipiens,41,True,Excluded: partial
+YHI20876.1,Myriophyllum verrucosum,41,True,Excluded: partial
+YHI20875.1,Myriophyllum verrucosum,41,True,Excluded: partial
+YHI20874.1,Myriophyllum verrucosum,41,True,Excluded: partial
+YHI20873.1,Myriophyllum crispatum,41,True,Excluded: partial
+YHI20872.1,Lycopus australis,41,True,Excluded: partial
+YHI20871.1,Trimeris anceps,41,True,Excluded: partial
+YHI20870.1,Juncus procerus,41,True,Excluded: partial
+YHI20869.1,Isolepis cf. cernua var. platycarpa,41,True,Excluded: partial
+YHI20868.1,Isolepis inundata,41,True,Excluded: partial
+YHI20867.1,Gratiola peruviana,41,True,Excluded: partial
+YHI20866.1,Eleocharis acuta,41,True,Excluded: partial
+YHI20865.1,Cyperus eragrostis,41,True,Excluded: partial
+YHI20864.1,Carex pseudocyperus var. fascicularis,41,True,Excluded: partial
+YHI20863.1,Bolboschoenus fluviatilis,41,True,Excluded: partial
+YHI20862.1,Baloskion tetraphyllum,41,True,Excluded: partial
+YHI20861.1,Alisma plantago-aquatica,41,True,Excluded: partial
+YHI09279.1,Leptochilus leveillei,475,False,Selected
+YHI09192.1,Leptochilus pedunculatus,475,False,Selected
+YHI09105.1,Lepisorus ovatus,475,False,Selected
+YBW74618.1,Cordyline sellowiana,487,False,Selected
+BIY02381.1,Theobroma cacao,180,True,Excluded: partial
+BIY02380.1,Theobroma cacao,180,True,Excluded: partial
+BIY02379.1,Theobroma cacao,180,True,Excluded: partial
+BIY02378.1,Theobroma cacao,179,True,Excluded: partial
+BIY02377.1,Theobroma cacao,181,True,Excluded: partial
+BIY02376.1,Theobroma cacao,175,True,Excluded: partial
+BIY02375.1,Theobroma cacao,180,True,Excluded: partial
+BHZ19391.1,Triadica sebifera,413,True,Excluded: partial
+YHI14898.1,Curcuma zedoaria,234,True,Excluded: partial
+YHI14897.1,Curcuma angustifolia,234,True,Excluded: partial
+YHI14896.1,Terminalia catappa,238,True,Excluded: partial
+YHI14895.1,Curcuma longa,236,True,Excluded: partial
+YHI14770.1,Rubus parvifolius,475,False,Selected
+YHI14345.1,Chrysosplenium wuwenchenii,475,False,Selected
+YHI14005.1,Quercus michauxii,475,False,Selected
+YHI13682.1,Pothos repens,480,False,Selected
+YHI09816.1,Aleuritopteris chinensis,32,False,Selected: review length
+YHI09808.1,Aleuritopteris chinensis,475,False,Selected
+YHI09727.1,Adiantum refractum,32,False,Selected: review length
+YHI09719.1,Adiantum refractum,475,False,Selected
+YHI09631.1,Haplopteris flexuosa,475,False,Selected
+YHI09550.1,Aleuritopteris chrysophylla,32,False,Selected: review length
+YHI09542.1,Aleuritopteris chrysophylla,475,False,Selected
+YHI09453.1,Adiantum chienii,475,False,Selected
+YHI09367.1,Loxogramme grammitoides,475,False,Selected
+YHI09007.1,Halimocnemis commixtus,475,False,Selected
+YHI08922.1,Halimocnemis mollissima,475,False,Selected
+YHI08506.1,Salicornia europaea,475,False,Selected
+YHI08279.1,Camellia gilbertii,475,False,Selected
+YHI08193.1,Camellia sinensis var. assamica,475,False,Selected
+YHI08105.1,Camellia fascicularis,475,False,Selected
+YHI08017.1,Camellia fascicularis,475,False,Selected
+YHI07927.1,Camellia petelotii,475,False,Selected
+YHI07837.1,Camellia petelotii,475,False,Selected
+YHI07747.1,Camellia petelotii,475,False,Selected
+YHI07657.1,Camellia tonkinensis,475,False,Selected
+YHI07569.1,Camellia amplexicaulis,475,False,Selected
+YHI07481.1,Camellia euphlebia,475,False,Selected
+YHI07391.1,Camellia petelotii,475,False,Selected
+YHI07303.1,Camellia nitidissima,475,False,Selected
+YHI07215.1,Camellia petelotii,475,False,Selected
+YHI07125.1,Camellia petelotii,475,False,Selected
+YHI07035.1,Camellia gilbertii,475,False,Selected
+YHI06947.1,Camellia nitidissima,475,False,Selected
+YHI06859.1,Camellia nitidissima,475,False,Selected
+YHI06769.1,Camellia piloflora,475,False,Selected
